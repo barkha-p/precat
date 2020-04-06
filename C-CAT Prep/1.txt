@@ -1,0 +1,134 @@
+CDAC Sample Paper
+
+1.The programming language that was designed for specifying algorithm
+Address
+ASCII
+ALGOL
+None of these options
+2. _____ contains the addresses of all the records according to the contents of the field designed as the record key.
+Index&lt;------ans
+Subscript
+Array
+File
+3. _________ symbol is used for Processing of data.
+Oval
+Parallelogram&lt;------ans
+Rectangle
+Diamond
+4. __________ is the analysis tool used for planning program logic
+Protocol
+None of these options
+PROLOG
+Pseudocode
+5. Machine language has two part format the first part is__________ and the second part is __________
+OPCODE,OPERAND&lt;------ans
+OPERAND,OPCODE
+DATA CODE,OPERAND
+OPERAND,CODEOP
+6. Language Primarily used for internet-based applications
+ADA
+C++
+JAVA&lt;------ans
+FORTRAN
+7. _________ is a point at which the debugger stops during program execution and awaits a further command.
+Memory Dump
+Watch point&lt;------ans
+Break point
+None of these options
+8. ________do not contain any program logic and are ignored by the language processor.
+Protocol
+Virus
+Comment
+None of these options
+9. The component of data base management system is ________
+Data definition Language
+Data manipulation Language
+Data definition Language and Data manipulation Language
+None of these options
+10. The quality of Algorithm is judged on the basis of_________
+Time requirement
+Memory Requirement
+Accuracy of solution
+All of these options&lt;------ans
+11. Advantages of using flow charts is
+Effective Analysis
+Efficient Coding
+Time consuming
+Effective Analysis and Efficient Coding&lt;-----ans
+Programming in C
+12. The Real constants in C can be expressed in which of the following forms
+Fractional form only
+Exponential form only
+ASCII form only
+Both Fractional and Exponential forms&lt;------ans
+13. The program, which translates high-level program into its equivalent machine language program, is called
+Transformer
+Language processor
+Converter
+None of these options&lt;------ans
+14. Consider the following statements. i.Multiplication associates left to right ii.Division associates left to right
+iii.Unary Minus associates right to left
+iv.subtraction associates left to right All are true &lt;------ans
+only i and ii are true
+all are false
+only iii and iv are true
+15. What will be the value of variable a in the following code?
+unsigned char a;
+a = 0xFF + 1;
+printf("%d", a);
+0xFF
+0x100
+0 &lt;------ans
+0x0
+16. What is the output of the following program?
+#include
+void main()
+{
+printf("\n10!=9 : %5d",10!=9);
+}
+1&lt;------ans
+0
+Error
+None of these options
+17. #include
+void main()
+{
+int x=10;
+(x&lt;0)?(int a =100):(int a =1000);
+printf(" %d",a);
+}
+Error&lt;------ans
+1000
+100
+None of these options
+18. Which of the following shows the correct hierarchy of arithmetic operations in C
+(), **, * or /, + or -
+(), **, *, /, +, -
+(), **, /, *, +, -
+(), / or *, - or + &lt;-----Ans
+19. What is the output of the following code?
+#include
+void main()
+{
+int a=14;
+a += 7;
+a -= 5;
+a *= 7;
+printf("\n%d",a);
+}
+112&lt;------ans
+98
+89
+None of these options
+20. What is the output of the following code? #include
+#define T t
+void main()
+{
+char T = `T`;
+printf("\n%c\t%c\n",T,t);
+}
+Error
+T t
+T T---ans
+t t
+ 
